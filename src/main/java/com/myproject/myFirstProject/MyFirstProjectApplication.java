@@ -1,4 +1,4 @@
-package com.edigest.myFirstProject;
+package com.myproject.myFirstProject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

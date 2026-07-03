@@ -1,4 +1,4 @@
-package com.edigest.myFirstProject;
+package com.myproject.myFirstProject;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
